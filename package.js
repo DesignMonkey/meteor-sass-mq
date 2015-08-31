@@ -1,10 +1,10 @@
 Package.describe({
   name: 'designmonkey:sass-mq',
-  version: '0.0.4',
+  version: '0.0.5',
   // Brief, one-line summary of the package.
-  summary: 'Making the sass-mq available',
+  summary: 'Media Query Sass library (Sass-mq) packed for Meteor',
   // URL to the Git repository containing the source code for this package.
-  git: '',
+  git: 'https://github.com/DesignMonkey/meteor-sass-mq',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'

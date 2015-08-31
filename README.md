@@ -1,5 +1,5 @@
 # Sass Media Queries for Responsive layout
-Mcaskill's media query library for sass. See full documentation at his Github: [https://github.com/mcaskill/sass-mq](https://github.com/mcaskill/sass-mq)  
+Mcaskill's Media Query Sass library. See full documentation at his Github: [https://github.com/mcaskill/sass-mq](https://github.com/mcaskill/sass-mq)  
 
 ### How to install  
 ```

@@ -1,5 +1,5 @@
-designmonkey:sass-mq@0.0.3
+designmonkey:sass-mq@0.0.5
 fourseven:scss@3.2.0
-local-test:designmonkey:sass-mq@0.0.3
+local-test:designmonkey:sass-mq@0.0.5
 meteor@1.1.6
 underscore@1.0.3
