@@ -1,6 +1,6 @@
 Package.describe({
   name: 'designmonkey:sass-mq',
-  version: '0.0.5',
+  version: '0.0.6',
   // Brief, one-line summary of the package.
   summary: 'Media Query Sass library (Sass-mq) packed for Meteor',
   // URL to the Git repository containing the source code for this package.
@@ -15,7 +15,7 @@ Package.onUse(function(api) {
   api.use('fourseven:scss@3.2.0');
   api.imply('fourseven:scss@3.2.0');
 
-  api.addFiles('lib/_sass-mq.scss', 'server', {isAsset: true});
+  api.addFiles('lib/_sass-mq.scss', 'server', {addAssets: true});
 
 });
 
